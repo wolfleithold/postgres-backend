@@ -19,20 +19,20 @@ This project creates a backend for an e-commerce platform using PostgreSQL for t
 
 ## Installation
 
-Run npm install to install dependencies.
-Set up the PostgreSQL database.
-Configure the .env file with database credentials.
+- Run npm install to install dependencies.
+- Set up the PostgreSQL database.
+- Configure the .env file with database credentials.
 
 ## Usage
 
-Start the server with node server.js.
-Access the API at http://localhost:3001/api.
+- Start the server with node server.js.
+- Access the API at http://localhost:3001/api.
 
 ## Contributing
 
-Fork the repository.
-Create a new branch for your feature.
-Submit a pull request.
+- Fork the repository.
+- Create a new branch for your feature.
+- Submit a pull request.
 
 ## Tests
 

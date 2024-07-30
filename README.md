@@ -11,7 +11,7 @@
 5. [Tests](#tests)
 6. [License](#license)
 7. [Questions](#questions)
-8. [Video](#here)
+8. [Video](#video)
 
 ## Description
 
@@ -49,4 +49,4 @@ You can also find me on GitHub: [wolfleithold](https://github.com/wolfleithold).
 
 ## Video
 
-Click [here] to see a video of how it works!
+Click [here](https://drive.google.com/file/d/1mn8A7eASU1elY9YKK0DrgaHL1xDPMoj5/view) to see a video of how it works!
